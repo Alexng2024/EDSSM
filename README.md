@@ -1,5 +1,5 @@
-Event-Driven State Space Models (EDSSM): Exact Continuous-Time Propagation on Sparse Timelines
-Authors: KS NG, PhD
+Event-Driven State Space Models (EDSSM): Exact Continuous-Time Propagation on Sparse Timelines\n
+Authors: KS NG, PhD\n
 Draft version: June 2026
 ________________________________________
 Abstract
